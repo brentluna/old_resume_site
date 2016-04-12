@@ -31,7 +31,7 @@ var education = { "schools" :
 }
 
 var projects = {
-   "projects" : [{"title" : "Android Keyboard Switcher app", "description" : "An android app that's a shortcut for opening the IME switcher menu to be able to change input methods anywhere, quickly.", "dates" : " January 2016"}, {"title" : "Jumpstart Blogger", "description" : "Created a basic blog website using Rails.", "dates" : "April 2016"}, {"title" : "Command Line Games", "description" : "Created a variety of command line interface games, including Hangman, Tic-Tac-Toe, Mastermind, and Battleship. The games included CPU logic so you can either play against the computer or someone else.", "dates" : "March 2016"}, {"title" : "Order Searching App", "description" : "Created an app using Python, for searching a database of orders and returning similar orders based on selected filters.", "dates" : "November 2014"}]
+   "projects" : [{"title" : "Keyboard Switcher App", "description" : "An android app that's a shortcut for opening the IME switcher menu to be able to change input methods anywhere, quickly.", "dates" : " January 2016"}, {"title" : "Jumpstart Blogger", "description" : "Created a basic blog website using Rails.", "dates" : "April 2016"}, {"title" : "Command Line Games", "description" : "Created a variety of command line interface games, including Hangman, Tic-Tac-Toe, Mastermind, and Battleship. The games included CPU logic so you can either play against the computer or someone else.", "dates" : "March 2016"}, {"title" : "Order Searching App", "description" : "Created an app using Python, for searching a database of orders and returning similar orders based on selected filters.", "dates" : "November 2014"}]
 }
 
 education.display = function() {
