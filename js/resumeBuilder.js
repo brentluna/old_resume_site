@@ -2,7 +2,7 @@
 var bio = {
   "name" : "Brent Luna",
   "role" : "Web Developer",
-  "contact" : {"email" : "brentadamluna@gmail.com", "github" : "brentgsw", "location" : "Oakland, CA"},
+  "contact" : {"email" : "brentadamluna@gmail.com", "github" : "brentluna", "location" : "Oakland, CA"},
   "picture" : "images/fry.jpg",
   "wecomeMessage" : "Hello, i'm working to become a devleoper.",
   "skills" : ["Ruby", "Rails", "Java", "Python", "JavaScript"]
