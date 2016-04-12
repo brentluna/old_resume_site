@@ -14,8 +14,8 @@ var work = {
   "dates" : "2012 - 2016",
   "title" : "Account Manager",
   "location" : "San Francisco, CA",
-  "description" : "-Designed and managed solar photovoltaic projects up to the system size of 600kw and $600k in value.<br>-Managed a book of accounts of more than 200 customers by providing customer service through techncial disgn assistance and pricing negotiations, managing relationships for man than 3 years."},
-  {"employer" : "CivicSolar, Inc.", "dates" : "2010 - 2012", "title" : "Operations Specialist", "location" : "San Francisco, CA", "description" : "-Oversaw order flow, by managing vendor, logistical and customer relationships.<br>-Created and implemented a case ticketing system to improve communication and efficieincy between the sales and operations teams reducing resolution times by 60%.<br>-Created an order search tool in Python, which allowed sales to find similar orders, increasing order creating efficiency while providing accurate pricing guidance."}
+  "description" : "-Designed and managed solar photovoltaic projects up to the system size of 600kw and $600k in value.<br>-Managed a book of accounts of more than 200 customers by providing customer service through technical design assistance and pricing negotiations, managing relationships for more than 3 years."},
+  {"employer" : "CivicSolar, Inc.", "dates" : "2010 - 2012", "title" : "Senior Operations Specialist", "location" : "San Francisco, CA", "description" : "-Oversaw order flow, by managing vendor, logistical and customer relationships.<br>-Created and implemented a case ticketing system to improve communication and efficiency between the sales and operations teams, reducing resolution times by 60%.<br>-Created an order search tool in Python, which allowed sales to find similar orders, increasing order creating efficiency while providing accurate pricing guidance."}
 ]
 }
 
@@ -25,7 +25,7 @@ var education = { "schools" :
   "location" : "Santa Cruz, CA",
   "dates" : "2010",
   "major" : "Economics and Environmental Studies"}],
-  "onlineCourses" : [{"title" : "Ojbect Oriented Programming with Java, Part 1", "school" : "University of Helsinki", "dates" : "November 2015", "url" : "http://mooc.fi/courses/2013/programming-part-1/"},
+  "onlineCourses" : [{"title" : "Object Oriented Programming with Java, Part 1", "school" : "University of Helsinki", "dates" : "November 2015", "url" : "http://mooc.fi/courses/2013/programming-part-1/"},
  {"title" : "Object Oriented Programming with Java, Part 2", "school" : "University of Helsinki", "dates" : "December 2015", "url" : "http://mooc.fi/courses/2013/programming-part-2/" },
  {"title" : "JavaScript Basics", "school" : "Udacity", "dates" : "April 2016", "url" : "https://www.udacity.com/course/javascript-basics--ud804"},{"title" : "How to Think Like a Computer Scientist: Learn with Python", "school" : "RuneStone Interactive", "dates" : "June 2015", "url" : "http://interactivepython.org/runestone/static/thinkcspy/index.html"}]
 }
