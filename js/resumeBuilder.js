@@ -14,8 +14,8 @@ var work = {
   "dates" : "2012 - 2016",
   "title" : "Account Manager",
   "location" : "San Francisco, CA",
-  "description" : "Designed and managed solar photovoltaic projects up to the system size of 600kw and $600k in value. Managed a book of accounts of more than 200 customers by providing customer service through techncial disgn assistance and pricing negotiations, managing relationships for man than 3 years."},
-  {"employer" : "CivicSolar, Inc.", "dates" : "2010 - 2012", "title" : "Operations Specialist", "location" : "San Francisco, CA", "description" : "Oversaw order flow, by managing vendor, logistical and customer relationships. Created and implemented a case ticketing system to improve communication and efficieincy between the sales and operations teams reducing resolution times by 60%. Created an order search tool in Python, which allowed sales to find similar orders, increasing order creating efficiency while providing accurate pricing guidance."}
+  "description" : "-Designed and managed solar photovoltaic projects up to the system size of 600kw and $600k in value.<br>-Managed a book of accounts of more than 200 customers by providing customer service through techncial disgn assistance and pricing negotiations, managing relationships for man than 3 years."},
+  {"employer" : "CivicSolar, Inc.", "dates" : "2010 - 2012", "title" : "Operations Specialist", "location" : "San Francisco, CA", "description" : "-Oversaw order flow, by managing vendor, logistical and customer relationships.<br>-Created and implemented a case ticketing system to improve communication and efficieincy between the sales and operations teams reducing resolution times by 60%.<br>-Created an order search tool in Python, which allowed sales to find similar orders, increasing order creating efficiency while providing accurate pricing guidance."}
 ]
 }
 
@@ -31,7 +31,7 @@ var education = { "schools" :
 }
 
 var projects = {
-   "projects" : [{"title" : "Android Keyboard Switcher app", "description" : "An android app that's a shortcut for opening the IME switcher menu to be able to change input methods anywhere, quickly.", "dates" : " January 2016"}, {"title" : "Jumpstart Blogger", "description" : "Created a basic blog website using Rails.", "dates" : "April 2016"}, {"title" : "Command Line Games", "description" : "Created a variety fo command line interface games, including Hangman, Tic-Tac-Toe, Mastermind, and Battleship. The games included CPU logic so you could either play against the computer or someone else.", "dates" : "March 2016"}, {"title" : "Order Searching App", "description" : "Created a pythong based GUI to search a database of orders based on selected paramaters, returning a list of matching orders", "dates" : "November 2014"}]
+   "projects" : [{"title" : "Android Keyboard Switcher app", "description" : "An android app that's a shortcut for opening the IME switcher menu to be able to change input methods anywhere, quickly.", "dates" : " January 2016"}, {"title" : "Jumpstart Blogger", "description" : "Created a basic blog website using Rails.", "dates" : "April 2016"}, {"title" : "Command Line Games", "description" : "Created a variety fo command line interface games, including Hangman, Tic-Tac-Toe, Mastermind, and Battleship. The games included CPU logic so you could either play against the computer or someone else.", "dates" : "March 2016"}, {"title" : "Order Searching App", "description" : "Created a pythong based GUI to search a database of orders based on selected paramaters, returning a list of matching orders.", "dates" : "November 2014"}]
 }
 
 education.display = function() {
